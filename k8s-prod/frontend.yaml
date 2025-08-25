@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: devikathuyamani/frontend:44e310722773c1a2c5048ab6d388e00fe1385ee7
+          image: devikathuyamani/frontend:75190f41c26e379f61e118e8b9506368a38a8801
           ports:
             - containerPort: 80
 ---
